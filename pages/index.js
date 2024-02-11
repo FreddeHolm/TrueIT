@@ -1,6 +1,7 @@
 import { Footer, Navbar } from '../components';
 import { About, Explore, Feedback, GetStarted, Hero, Insights, WhatsNew, World } from '../sections';
 
+// https://www.youtube.com/watch?v=ugCN_gynFYw
 // samma som i filen under app/pages
 // DEPLOY : klistra in samma som i filen under app/pages i denna index.js fil under pages
 
